@@ -1,5 +1,8 @@
 # List of all contributors
 
+## 2024
+2. [Divyam Prabhu Dessai](https://github.com/divyamprabhudessai)
+
 ## 2019
 
 1. [Shaurya Agarwal](https://github.com/ShauryaAg)
